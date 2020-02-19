@@ -1,0 +1,5 @@
+/Users/philiplgelinas/Projects/CptS487_HW4/CptS487_HW4/bin/Debug/CptS487_HW4.exe
+/Users/philiplgelinas/Projects/CptS487_HW4/CptS487_HW4/bin/Debug/CptS487_HW4.pdb
+/Users/philiplgelinas/Projects/CptS487_HW4/CptS487_HW4/obj/Debug/CptS487_HW4.csprojAssemblyReference.cache
+/Users/philiplgelinas/Projects/CptS487_HW4/CptS487_HW4/obj/Debug/CptS487_HW4.exe
+/Users/philiplgelinas/Projects/CptS487_HW4/CptS487_HW4/obj/Debug/CptS487_HW4.pdb
