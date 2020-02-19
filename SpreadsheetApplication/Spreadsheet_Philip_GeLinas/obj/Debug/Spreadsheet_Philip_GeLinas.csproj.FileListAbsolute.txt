@@ -1,0 +1,12 @@
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\bin\Debug\Spreadsheet_Philip_GeLinas.exe.config
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\bin\Debug\Spreadsheet_Philip_GeLinas.exe
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\bin\Debug\Spreadsheet_Philip_GeLinas.pdb
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.csprojAssemblyReference.cache
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.Properties.Resources.resources
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.csproj.GenerateResource.cache
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.exe
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.pdb
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.Form1.resources
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\Spreadsheet_Philip_GeLinas\obj\Debug\Spreadsheet_Philip_GeLinas.csproj.CopyComplete
