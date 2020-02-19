@@ -1,0 +1,5 @@
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\Philip GeLinas\source\repos\Spreadsheet_Philip_GeLinas\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
